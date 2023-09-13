@@ -1,0 +1,12 @@
+﻿Console.WriteLine("Введите первое число");
+int x = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите второе число");
+int y = Convert.ToInt32(Console.ReadLine());
+int sum = x + y;
+int z = x - y;
+int mul = x * y;
+double c = Convert.ToDouble(x) / Convert.ToDouble(y);
+Console.WriteLine($"Сумма: {sum}");
+Console.WriteLine($"Разность: {z}");
+Console.WriteLine($"Произведение: {mul}");
+Console.WriteLine($"Частное: {c}");
