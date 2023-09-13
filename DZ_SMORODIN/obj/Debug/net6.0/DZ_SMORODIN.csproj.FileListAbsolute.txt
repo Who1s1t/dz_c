@@ -1,0 +1,15 @@
+C:\Users\OVER\source\repos\DZ_SMORODIN\DZ_SMORODIN\bin\Debug\net6.0\DZ_SMORODIN.exe
+C:\Users\OVER\source\repos\DZ_SMORODIN\DZ_SMORODIN\bin\Debug\net6.0\DZ_SMORODIN.deps.json
+C:\Users\OVER\source\repos\DZ_SMORODIN\DZ_SMORODIN\bin\Debug\net6.0\DZ_SMORODIN.runtimeconfig.json
+C:\Users\OVER\source\repos\DZ_SMORODIN\DZ_SMORODIN\bin\Debug\net6.0\DZ_SMORODIN.dll
+C:\Users\OVER\source\repos\DZ_SMORODIN\DZ_SMORODIN\bin\Debug\net6.0\DZ_SMORODIN.pdb
+C:\Users\OVER\source\repos\DZ_SMORODIN\DZ_SMORODIN\obj\Debug\net6.0\DZ_SMORODIN.csproj.AssemblyReference.cache
+C:\Users\OVER\source\repos\DZ_SMORODIN\DZ_SMORODIN\obj\Debug\net6.0\DZ_SMORODIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OVER\source\repos\DZ_SMORODIN\DZ_SMORODIN\obj\Debug\net6.0\DZ_SMORODIN.AssemblyInfoInputs.cache
+C:\Users\OVER\source\repos\DZ_SMORODIN\DZ_SMORODIN\obj\Debug\net6.0\DZ_SMORODIN.AssemblyInfo.cs
+C:\Users\OVER\source\repos\DZ_SMORODIN\DZ_SMORODIN\obj\Debug\net6.0\DZ_SMORODIN.csproj.CoreCompileInputs.cache
+C:\Users\OVER\source\repos\DZ_SMORODIN\DZ_SMORODIN\obj\Debug\net6.0\DZ_SMORODIN.dll
+C:\Users\OVER\source\repos\DZ_SMORODIN\DZ_SMORODIN\obj\Debug\net6.0\refint\DZ_SMORODIN.dll
+C:\Users\OVER\source\repos\DZ_SMORODIN\DZ_SMORODIN\obj\Debug\net6.0\DZ_SMORODIN.pdb
+C:\Users\OVER\source\repos\DZ_SMORODIN\DZ_SMORODIN\obj\Debug\net6.0\DZ_SMORODIN.genruntimeconfig.cache
+C:\Users\OVER\source\repos\DZ_SMORODIN\DZ_SMORODIN\obj\Debug\net6.0\ref\DZ_SMORODIN.dll
